@@ -1,6 +1,6 @@
 # projet-IN204 : Composition SMS T9
 
-## Nawel AKROTUI & Safa IDRANI 
+## Nawel AKROUTI & Safa IDRANI 
 
 ### compiler sur Windows:
 
