@@ -9,7 +9,7 @@ Ce projet est écrit en C++ avec QT Creator 6.0.2 et ne nécessite aucune biblio
 
 Ouvriez directement le fichier ```./T9-keyboard.pro``` dans QT Creator. 
 
-Changez le "PATH" de dictionnaire sur votre machine dans le fichier ```./main.cpp```
+changiez le "PATH" de dictionnaire sur votre machine dans le fichier ```./main.cpp```
 
 
 
